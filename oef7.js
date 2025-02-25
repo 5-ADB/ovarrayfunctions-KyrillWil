@@ -10,3 +10,6 @@ const resultaten = [
   { vak: chemie, punt: 8, totaal: 10 },
   { vak: nederlands, punt: 8, totaal: 10 },
 ];
+
+let resultaatWiskunde = resultaten.reduce((vak, index)=>{console.log(resultaat);
+}=0)

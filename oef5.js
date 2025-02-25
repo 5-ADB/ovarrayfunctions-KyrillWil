@@ -5,6 +5,6 @@
  */
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
 
-namenlijst.sort()
+namenlijst.splice(1, 2)
 console.log(namenlijst);
 
