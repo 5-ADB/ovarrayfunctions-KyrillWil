@@ -4,3 +4,6 @@
  */
 
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+
+namenlijst.forEach((value, index)=>{console.log(namenlijst[index]);
+})

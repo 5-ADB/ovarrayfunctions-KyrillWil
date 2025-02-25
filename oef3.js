@@ -3,3 +3,7 @@
  */
 
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+
+let nieuweLijst = namenlijst.unshift("Pieter")
+console.log(namenlijst);
+

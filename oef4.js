@@ -3,3 +3,10 @@
  *
  */
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+
+let laatsteNaam = namenlijst.pop()
+console.log(namenlijst);
+
+
+
+
